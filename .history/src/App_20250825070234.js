@@ -54,7 +54,7 @@ export default function App(){
         <HomeView isAdmin={isAdmin} />
       )}
 
-      <footer>Chúc bạn có trải nghiệm mua sắm vui vẻ</footer>
+      <footer>Demo LocalStorage • Không dùng backend. Tốt nhất mở trên trình duyệt hiện đại.</footer>
     </div>
   );
 }
